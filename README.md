@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @simpleboypal
 - 👀 I’m interested in Web Design front end and backend
-- 🌱 I’m currently learning React 
-- 💞️ I’m looking to collaborate on Wordpress, react 
+- 🌱 I’m currently learning Larvarel
+- 💞️ I’m looking to collaborate on Wordpress, react ,larvarel
 - 📫 How to reach me ...
 
 <!---
